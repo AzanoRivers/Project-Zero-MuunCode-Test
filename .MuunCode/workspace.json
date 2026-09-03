@@ -1,7 +1,7 @@
 {
   "muunCodeVersion": 1,
   "name": "Project-Zero-MuunCode-Test",
-  "device": null,
-  "display": null,
+  "device": "crowpanel-2-8",
+  "display": "disp-2-8-320x240-ili9341-crowpanel",
   "createdAt": "2026-09-01T05:45:02.248Z"
 }
