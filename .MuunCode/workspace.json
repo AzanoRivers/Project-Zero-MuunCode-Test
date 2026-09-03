@@ -3,5 +3,6 @@
   "name": "Project-Zero-MuunCode-Test",
   "device": "crowpanel-2-8",
   "display": "disp-2-8-320x240-ili9341-crowpanel",
+  "missionType": "boardAndDisplay",
   "createdAt": "2026-09-01T05:45:02.248Z"
 }
